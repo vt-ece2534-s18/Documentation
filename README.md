@@ -1,0 +1,1 @@
+The installation instructions for CCS are in the Wiki of this repository.
